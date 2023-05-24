@@ -7,7 +7,7 @@ A simple calculator implemented using HTML, CSS, and JavaScript.
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
--- [Contributing](#contributing)
+- [Contributing](#contributing)
 
 
 ## Description
